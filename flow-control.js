@@ -23,7 +23,7 @@ switch(age) {
   case 13:
   case 14:
   case 15:
-    return ""You are a teenager""
+    return "You are a teenager"
   default:
      return "You are not a teenager"
 }
