@@ -1,3 +1,5 @@
+are = "You are a teenager"
+
 function basicTeenager(age) {
 
 }
