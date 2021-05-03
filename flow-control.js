@@ -32,7 +32,7 @@ switch(age) {
   case 19:
     return are
   default:
-     return arent
+     return "You have an age"
 }
 }
 
