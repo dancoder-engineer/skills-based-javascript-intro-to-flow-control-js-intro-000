@@ -20,6 +20,6 @@ function switchAge(age) {
 
 }
 
-ternaryTeenager(12)
-ternaryTeenager(19)
-ternaryTeenager(20)
+console.log(ternaryTeenager(12))
+console.log(ternaryTeenager(19))
+console.log(ternaryTeenager(20))
