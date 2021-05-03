@@ -30,6 +30,6 @@ switch(age) {
 }
 
 
-console.log(ternaryTeenager(12))
-console.log(ternaryTeenager(19))
-console.log(ternaryTeenager(20))
+console.log(switchAge(12))
+console.log(switchAge(19))
+console.log(switchAge(20))
