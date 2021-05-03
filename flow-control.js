@@ -1,4 +1,5 @@
 are = "You are a teenager"
+arent = "You are not a teenager"
 
 function basicTeenager(age) {
 
@@ -31,7 +32,7 @@ switch(age) {
   case 19:
     return are
   default:
-     return 
+     return arent
 }
 }
 
