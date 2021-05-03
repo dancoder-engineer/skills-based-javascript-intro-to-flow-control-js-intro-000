@@ -2,7 +2,7 @@ are = "You are a teenager"
 arent = "You are not a teenager"
 
 function basicTeenager(age) {
-
+if (age > 12 && age < 20) { 
 }
 
 function teenager(age) {
