@@ -30,6 +30,6 @@ switch(age) {
 }
 
 
-console.log(switchAge(12))
+console.log(switchAge(14))
 console.log(switchAge(19))
 console.log(switchAge(20))
